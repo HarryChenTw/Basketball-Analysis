@@ -1,5 +1,5 @@
 ### Analysis List
-1. 李愷諺 v.s. 高國豪 (例行賽)
+1. 李愷諺 v.s. 高國豪 (2021-22例行賽)
     - [完整分析文](https://surf-shear-188.notion.site/v-s-5870935d482541569e2c1ec3f3b742b4)
     - [jupyter notebook](https://github.com/HarryChenTw/Basketball-Analysis/blob/main/01_kyle_kao_regular_season.ipynb)
     - ( Jul. 9 2022 Uploaded )
