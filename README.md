@@ -1,5 +1,9 @@
 ### Analysis List
-1. 李愷諺 v.s. 高國豪 (2021-22例行賽)
+- 最佳第六人分析 (2021-22例行賽)
+    - [完整分析文](https://surf-shear-188.notion.site/P-2021-22-52808407254e48f6bee3d8689eb2c9bd)
+    - [jupyter notebook](https://github.com/HarryChenTw/Basketball-Analysis/blob/main/02_sixth_man.ipynb)
+    - ( Jul. 30 2022 Uploaded )
+-  李愷諺 v.s. 高國豪 (2021-22例行賽)
     - [完整分析文](https://surf-shear-188.notion.site/v-s-5870935d482541569e2c1ec3f3b742b4)
     - [jupyter notebook](https://github.com/HarryChenTw/Basketball-Analysis/blob/main/01_kyle_kao_regular_season.ipynb)
     - ( Jul. 9 2022 Uploaded )
