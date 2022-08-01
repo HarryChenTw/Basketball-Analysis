@@ -1,5 +1,3 @@
-from tkinter import Toplevel
-
 
 def TS(POINT:int, FGA:int, FTA:int) -> float:
     return round(POINT/(2*(FGA+0.44*FTA)),2)
