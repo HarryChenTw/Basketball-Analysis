@@ -1,5 +1,9 @@
 Analysis of [P.League](https://pleagueofficial.com/) 2021-22 season games and players.
 ### Analysis List
+- 球員分群
+    - [完整分析文](https://surf-shear-188.notion.site/2021-22-8fa8291043484c39a7716ade2ce725e9)
+    - [jupyter notebook](https://github.com/HarryChenTw/Basketball-Analysis/blob/main/03_player_clustering.ipynb)
+    - ( Aug. 5 2022 Uploaded )
 - 最佳第六人分析 
     - [完整分析文](https://surf-shear-188.notion.site/P-2021-22-52808407254e48f6bee3d8689eb2c9bd)
     - [jupyter notebook](https://github.com/HarryChenTw/Basketball-Analysis/blob/main/02_sixth_man.ipynb)
