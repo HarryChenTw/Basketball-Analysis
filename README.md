@@ -21,6 +21,9 @@
     - [完整分析文](https://surf-shear-188.notion.site/v-s-5870935d482541569e2c1ec3f3b742b4)
     - [jupyter notebook](https://github.com/HarryChenTw/Basketball-Analysis/blob/main/01_kyle_kao_regular_season.ipynb)
     - ( Jul. 9 2022 Updated )
+    
+    <img src="https://user-images.githubusercontent.com/75982405/187365468-31d4633d-fb18-4e44-81c9-53407d91d213.png" width=400 heights=400 >
+
 
 
 <br>
