@@ -1,4 +1,7 @@
-Analysis of [P.League](https://pleagueofficial.com/) 2021-22 season games and players.
+## Analysis of [P.League](https://pleagueofficial.com/) 2021-22 season games and players.
+
+![image](https://user-images.githubusercontent.com/75982405/187362413-cdb86c24-b843-45d7-b711-7df12f9e04ce.png)
+
 ### Analysis List
 - 球員分群
     - [完整分析文](https://surf-shear-188.notion.site/2021-22-8fa8291043484c39a7716ade2ce725e9)
